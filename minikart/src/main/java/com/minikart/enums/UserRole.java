@@ -1,4 +1,4 @@
-package com.minikart.entity.enums;
+package com.minikart.enums;
 
 public enum UserRole {
 

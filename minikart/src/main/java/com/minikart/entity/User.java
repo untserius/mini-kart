@@ -1,6 +1,6 @@
 package com.minikart.entity;
 
-import com.minikart.entity.enums.UserRole;
+import com.minikart.enums.UserRole;
 import jakarta.persistence.*;
 import lombok.Data;
 
